@@ -1,0 +1,100 @@
+{
+  "edition_id": "week-europe-2026-W19",
+  "edition_date": "2026-05-05",
+  "scan_date": "2026-05-05",
+  "model_version": "v2.0-simfin-calibrated",
+  "universe_size": 185,
+  "published_at": "2026-05-05T07:41:37.189712Z",
+  "picks": [
+    {
+      "rank": 1,
+      "ticker": "NESTE.HE",
+      "sector": "Energy",
+      "decision": "Buy",
+      "confidence": "MEDIUM",
+      "price_at_pick": 29.3700008392334,
+      "score": 49.199999999999996
+    },
+    {
+      "rank": 2,
+      "ticker": "SAP.DE",
+      "sector": "Technology",
+      "decision": "Buy",
+      "confidence": "HIGH",
+      "price_at_pick": 145.8800048828125,
+      "score": 47.42
+    },
+    {
+      "rank": 3,
+      "ticker": "SAF.PA",
+      "sector": "Industrials",
+      "decision": "Buy",
+      "confidence": "HIGH",
+      "price_at_pick": 273.0,
+      "score": 47.29
+    },
+    {
+      "rank": 4,
+      "ticker": "NOVN.SW",
+      "sector": "Healthcare",
+      "decision": "Buy",
+      "confidence": "HIGH",
+      "price_at_pick": 113.83999633789062,
+      "score": 46.6
+    },
+    {
+      "rank": 5,
+      "ticker": "UMI.BR",
+      "sector": "Industrials",
+      "decision": "Buy",
+      "confidence": "MEDIUM",
+      "price_at_pick": 17.18000030517578,
+      "score": 46.5
+    },
+    {
+      "rank": 6,
+      "ticker": "ERIC-B.ST",
+      "sector": "Technology",
+      "decision": "Buy",
+      "confidence": "MEDIUM",
+      "price_at_pick": 108.3499984741211,
+      "score": 45.99
+    },
+    {
+      "rank": 7,
+      "ticker": "SBRY.L",
+      "sector": "Consumer Defensive",
+      "decision": "Buy",
+      "confidence": "MEDIUM",
+      "price_at_pick": 328.79998779296875,
+      "score": 45.81
+    },
+    {
+      "rank": 8,
+      "ticker": "BP.L",
+      "sector": "Energy",
+      "decision": "Buy",
+      "confidence": "HIGH",
+      "price_at_pick": 571.9000244140625,
+      "score": 45.5
+    },
+    {
+      "rank": 9,
+      "ticker": "IPN.PA",
+      "sector": "Healthcare",
+      "decision": "Buy Small",
+      "confidence": "HIGH",
+      "price_at_pick": 167.0,
+      "score": 44.980000000000004
+    },
+    {
+      "rank": 10,
+      "ticker": "CCH.L",
+      "sector": "Consumer Defensive",
+      "decision": "Buy Small",
+      "confidence": "MEDIUM",
+      "price_at_pick": 4280.0,
+      "score": 44.660000000000004
+    }
+  ]
+}
